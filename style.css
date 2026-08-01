@@ -1,0 +1,21 @@
+body {
+  background-color: #f4f4f4; /* Light gray background */
+  font-family: Arial, sans-serif; /* Clean, modern font */
+  color: #333333; /* Dark gray text color */
+  line-height: 1.6; /* Adds spacing between lines of text */
+  margin: 40px; /* Adds space around the page edges */
+}
+
+/* Style main headings */
+h1 {
+  color: #00539f; /* Deep blue color */
+  font-size: 28px; /* Larger font size */
+  border-bottom: 2px solid #00539f; /* Blue underline */
+  padding-bottom: 10px; /* Space above the underline */
+}
+
+/* Style paragraphs */
+p {
+  font-size: 16px; /* Standard text size */
+  margin-bottom: 15px; /* Space below each paragraph */
+}
