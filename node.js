@@ -9,3 +9,6 @@ function addNumbers(a, b) {
 
 let result = addNumbers(5, 10);
 console.log(result); // Outputs: 15
+for(let i = 0; i < 5; i++){
+    console.log(i);
+}
