@@ -1,3 +1,4 @@
 print("I am practicing python")
 for i in range(10):
     print(i*i)
+print(2**8)
